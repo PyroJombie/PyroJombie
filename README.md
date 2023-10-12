@@ -2,7 +2,7 @@
 
 ## Привет, меня зовут Ян и я Junior QA.
 
-## Tech & tools
+### Tech & tools
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=)
 ![DEVTOOLS](https://img.shields.io/badge/DevTools-000000?style=for-the-badge&logo=DevTools)
@@ -12,8 +12,13 @@
 ![JIRA](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira)
 ![FIGMA](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma)
 
-## В данный момент изучаю
+### В данный момент изучаю
 ![PYTHON](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux)
 
-## Контакты
+### ПРимеры работ
+
+### Контакты
+
+[![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK)](https://vk.com/pyrojombie)
+[![TG](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/pyrojombie)
