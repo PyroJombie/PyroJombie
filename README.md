@@ -20,7 +20,7 @@ ___
 ### Тестовая документация
 ___
 ### Резюме
-[ссылка на мое резюме](https://spb.hh.ru/resume/0696273bff0c0e9b0e0039ed1f515355307762)
+[ссылка на мое резюме](https://drive.google.com/file/d/1ANKuTPTULZFZuKuIK1bXMBkbLYXfpQ8P/view?usp=sharing)
 ___ 
 ### Контакты
 
