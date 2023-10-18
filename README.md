@@ -18,6 +18,9 @@ ___
 ![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux)
 ___
 ### Тестовая документация
+[bugg report]()
+[Приемочное тестирование](https://github.com/PyroJombie/acceptance_testing)
+[Гафик трудозатрат](https://github.com/PyroJombie/labor_costs)
 ___
 ### Резюме
 [Cсылка на мое резюме](https://drive.google.com/file/d/1ANKuTPTULZFZuKuIK1bXMBkbLYXfpQ8P/view?usp=sharing)
@@ -26,3 +29,4 @@ ___
 
 [![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK)](https://vk.com/pyrojombie)
 [![TG](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/pyrojombie)
+
