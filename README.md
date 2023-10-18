@@ -18,9 +18,11 @@ ___
 ![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux)
 ___
 ### Тестовая документация
-[bugg report]()
-[Приемочное тестирование](https://github.com/PyroJombie/acceptance_testing)
-[Гафик трудозатрат](https://github.com/PyroJombie/labor_costs)
+* [Check list](https://github.com/PyroJombie/check_list) 
+* [Bug reports]()
+* [Диаграмма состояний и переходов](https://github.com/PyroJombie/state_transition_diagram)
+* [Приемочное тестирование](https://github.com/PyroJombie/acceptance_testing)
+* [График трудозатрат](https://github.com/PyroJombie/labor_costs)
 ___
 ### Резюме
 [Cсылка на мое резюме](https://drive.google.com/file/d/1ANKuTPTULZFZuKuIK1bXMBkbLYXfpQ8P/view?usp=sharing)
