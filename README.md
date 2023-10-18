@@ -20,7 +20,7 @@ ___
 ### Тестовая документация
 ___
 ### Резюме
-[ссылка на мое резюме](https://drive.google.com/file/d/1ANKuTPTULZFZuKuIK1bXMBkbLYXfpQ8P/view?usp=sharing)
+[Cсылка на мое резюме](https://drive.google.com/file/d/1ANKuTPTULZFZuKuIK1bXMBkbLYXfpQ8P/view?usp=sharing)
 ___ 
 ### Контакты
 
