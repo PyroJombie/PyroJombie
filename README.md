@@ -19,7 +19,7 @@ ___
 ___
 ### Тестовая документация
 * [Check list](https://github.com/PyroJombie/check_list) 
-* [Bug reports]()
+* [Bug reports](https://github.com/PyroJombie/bug_report)
 * [Диаграмма состояний и переходов](https://github.com/PyroJombie/state_transition_diagram)
 * [Приемочное тестирование](https://github.com/PyroJombie/acceptance_testing)
 * [График трудозатрат](https://github.com/PyroJombie/labor_costs)
