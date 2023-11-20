@@ -12,10 +12,13 @@ ___
 ![SQL](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=Mysql)
 ![JIRA](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira)
 ![FIGMA](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma)
+![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux)
+![GITLAB](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=GITLAB)
 ___
 ### В данный момент изучаю
 ![PYTHON](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
-![LINUX](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux)
+![DOCKER](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Docker)
+![JFROG](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Jfrog)
 ___
 ### Тестовая документация
 * [Check list](https://github.com/PyroJombie/check_list) 
