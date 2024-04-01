@@ -28,7 +28,7 @@ ___
 * [График трудозатрат](https://github.com/PyroJombie/labor_costs)
 ___
 ### Резюме
-[Cсылка на мое резюме]([https://drive.google.com/file/d/1Iqtx1j78yxJz1fn-N0pez53kdnLso9V4/view?usp=sharing](https://drive.google.com/file/d/1fLEwrJHyIP-8dV5PhpLAfHy_lKQ12DLU/view?usp=sharing))
+[Cсылка на мое резюме](https://drive.google.com/file/d/1fLEwrJHyIP-8dV5PhpLAfHy_lKQ12DLU/view?usp=sharing)
 ___ 
 ### Контакты
 
